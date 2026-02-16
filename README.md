@@ -30,5 +30,6 @@ It keeps your mouse in the center and zooms in (like a magnifying glass), making
 ##  Related Projects
 Looking for a simple mouse highlighter instead? Check out my other repo: 
 [**Elastic Mouse Overlay**](https://github.com/shehanweersing/obs-elastic-mouse)
-#  [Shehan N Weerasinghe**](linkedin.com/in/shehan-n-weerasinghe-26307a399)
+#  [Shehan N Weerasinghe]
+[Connect with me on LinkedIn](https://www.linkedin.com/in/shehan-n-weerasinghe-26307a399/)
 
